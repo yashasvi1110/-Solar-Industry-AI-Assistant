@@ -1,6 +1,6 @@
 # ☀️Solar_Industry_AI_Assistant
 
-This is an *AI-powered assistant* that provides expert insights on solar energy, including *solar panel technology, installation, maintenance, cost analysis, regulations, and market trends.  **https://huggingface.co/spaces/llama-yash/Solar_AI_assistant*
+This is an *AI-powered assistant* that provides expert insights on solar energy, including *solar panel technology, installation, maintenance, cost analysis, regulations, and market trends.  https://huggingface.co/spaces/llama-yash/Solar_AI_assistant
 
 🚀 *Powered by OpenRouter API*  
 
